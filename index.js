@@ -1,6 +1,6 @@
 const Discord = require('discord.js);
 const client = new Discord.Client();
-const pagination = require('discord.js-pagination);
+const pagination = require('discord.js-pagination');
 
 client.on('message', message => {
 
